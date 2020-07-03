@@ -1,3 +1,3 @@
 # Proyecto2_Estructuras
 
-Esta en un archivo zip   
+El proyecto es comprimido en una carpeta zip  
